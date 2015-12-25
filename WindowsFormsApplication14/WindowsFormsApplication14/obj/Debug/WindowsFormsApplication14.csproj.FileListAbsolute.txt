@@ -1,0 +1,28 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+G:\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+G:\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\Interop.ShockwaveFlashObjects.dll
+G:\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.ResolveComReference.cache
+G:\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+G:\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+G:\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+G:\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+G:\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+G:\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
